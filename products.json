@@ -1,0 +1,160 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Calathea plant",
+      "description": "A popular tropical plant with large, glossy leaves and natural leaf-holes.",
+      "image": "https://s3-alpha-sig.figma.com/img/c8eb/5b1a/bede1308e0eaf899d1f7faae62a0c2f6?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=leSaZUYzUZG290ApKKsfdrhi46ri66HkgbfIhcXVBkhdZex8kP7kuwVAcOeygXw6tLC3IS16cMSWRdyZrw8Ki~F92AXIRoDiJmxM6k1VGJ029cck1fecCTWFjV0Ri-ypShot4lMxQqoQNXg22YquYCB5c34bqjLYdz0SW3USF4PtC0FsHGL188KIms9dUSY1whZA-DPC5zV4LrRMqV95zG9qoS7yGkSQ5kTVvXmzKt8Pe9gTrK4XNzKCUVFb5xk004N0LrFfUGkJL2ZP7uqUqJtJ9I~PYmbn8JDgqeIGMahpWUxYaUKJyXGATZbcoyeUMN36Mj7jqkp7r9qOAk9ncw__",
+      "price": 359
+    },
+    {
+      "id": "2",
+      "name": "Haworthiopsis fasciata",
+      "description": "A hardy, low-maintenance plant with tall, upright leaves that purify the air.",
+      "image": "https://s3-alpha-sig.figma.com/img/95e7/2828/2f4fb901ee2edc80783c2fbd7df490c2?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=m1S5iIuH0-EEiZTUhtbG87SRUIrTbAmmed~50y0aBoQ-Pr5TRwlCLADJmENeYqMUjctTyX~OYv9AQPiB6vf1rAsF8s2p6gT2whCoSrpy03hjtpf~duPFSFV7gStsR3XFCcDu5l6zU~38WTS594KOK0WJXKtNdQQQgF2Q0EI83fZavSUM-46KK6x~5W3hrxlPUv3w84gY-KXb9Meew9m9qxR83afX6MZLg5gKy-JPNRORoFaMMXfiZA8JPv3Cn6KH2L2iX85NE6oJVoaLpZwV~46tPcnRkR-T02ftygrUojI7gMtALDpn4WNIAlSreso1JQP~TADws7bMoOAo3Y5H5w__",
+      "price": 250
+    },
+    {
+      "id": "3",
+      "name": "Philodendron",
+      "description": "A stylish indoor tree with large, violin-shaped leaves.",
+      "image": "https://s3-alpha-sig.figma.com/img/b483/12db/ddc890f7f35ef3964ae1e7900b89782c?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=kvkpWGduNkTUXYOUE-dqOErNxIP0wRq-0pGSihUs-e-gJJXYHpqjQ7iB1Vwbnz1eV8lcbWQ76ma6osqn4CuGlsosk4CIT4B~JGX1MZOsbRWH3-xrF71bW4YTPhkxc2y3DC9CC2DzweqQoOYcOqzFORYRicuq4hmlIXupSIguLvMS-vrLrbCgeoCEE17WXy5inyHauCbxcKMcudeadAfhIqlJ8r2frq0RVe0bzjG-g2HpdGlcUaAPgukIkQK1-duzjDU~u1lOswQMUyCkw2h-v2YGcGNVZaoaRg~VaZIOZS38BEepT1Y2RBNcNhQpEsuHUo2aTW685EucYfl6a7KaKg__",
+      "price": 450
+    },
+    {
+      "id": "4",
+      "name": "Pilosocereus pachycladus",
+      "description": "A collection of small, easy-to-care-for succulents in a variety of shapes and colors.",
+      "image": "https://s3-alpha-sig.figma.com/img/6d90/9165/07b2b3030961c99c6af0ebac97b86c78?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=dFy2p0mD8A1jl3fBjcBa5xXEfUn-kK-C7CLDM-DO6C1HpTlPhcKQbbou1p7H1cqXrE0DcF7uZwHl9MAQHxA0DxU~ZsaO1AsdcATWThwrkw7bGD-SfdmN024tEiHQ4vDTyxUUqrTl02DmNi1Sh-4c5pJprigp2GUhTyYJy1JJ4DX~SKq6QbvkqvBbfaEpEJfzKJbHbALz40ozIPW0oSqsz9vt-9sfsC~r2uhkyiXnPz8omBV11-fYWlECNIMBQXnp7omgBaZJViKgFCb5i5MKSHq3miy7X9GdqEcok4oSg1x3jtmETY3zGotRdl2S31EMbOpYLxES31J5GXLaJTDwfg__",
+      "price": 199
+    },
+    {
+      "id": "5",
+      "name": "Swiss cheese plant",
+      "description": "A beautiful flowering plant that thrives in low light and helps purify the air.",
+      "image": "https://s3-alpha-sig.figma.com/img/5196/aba5/8f7006d90ec0712ac1d01688cde1a537?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=VHJbOJr0qVsSdrWiECUE34nDCqMGi4EW2HfzDdiKMhfn4rJlzXkbmjPiWbqxtRDLbYTfcMTmzDPdi1aZutA897PQcFHXIUCK5Acb62FmFSQr7FAqEpaYAkm7KwnRQ5cvAASD7s8J7lu4D8vQjEQ1JGBwUP2FV6MU41VblHwuhtAyNlv3tyJqfbT13xWuRvfdcapcZWwqp~zd5-0qfokb1QSOyUUPNogQsJdUZv--bDfOehuwQoDjW0evFKHPgi1IHVINsgbHa7Bt5rC9Oe4hyadIf197OuUBJkB2~xtm9NrzrzZS7~ty6gN60zJ61OYBca7tiiqtsU73dLfgGozhkQ__",
+      "price": 300
+    },
+    {
+      "id": "6",
+      "name": "Zamiokulkas",
+      "description": "A hardy indoor plant with thick, glossy leaves that add a touch of elegance to any space.",
+      "image": "https://s3-alpha-sig.figma.com/img/eb03/51a5/771ed55c7f3454bcce697dfe63237769?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=kRxF~oEe9BwuzOdxZD5jaIXoa6~TNOkS8srCvpfLz4Yj~cCwCG2fESaUR285IFvFtfl42pyTsEfHNGJtdUHwEi~3kyl9PeqnGXppuW9CPkyUPHeKBJ4Eq6Ij9dscLnPe4KlWntcukvHfZ4KfZ5DTRr2RdP-NTqWgCvq7KGMZogU-ZtTVBKmcBfwRXu7eC~hx3CfBpAB2pBS80qsagZprqGC8s-Kux0MlGJEdtgk8W85PfdYMQXzMItOicctpRNFvFsbXY1MXLcCcKktx9zRZ0J9kya5lDrbLx1fwiFImYSCWgf65rQHL-MHyuf~g65U-6NuFL7SQLXdRnABLqhySqg__",
+      "price": 285
+    },
+    {
+      "id": "7",
+      "name": "Aloe Vera",
+      "description": "A medicinal succulent known for its soothing gel and air-purifying properties.",
+      "image": "https://www.plantstore.ie/cdn/shop/products/aloe.png?v=1641577755&width=1500",
+      "price": 159
+    },
+    {
+      "id": "8",
+      "name": "Pothos",
+      "description": "A versatile trailing plant with heart-shaped leaves, perfect for hanging baskets.",
+      "image": "https://d2eygrc92dqrgg.cloudfront.net/wp-content/uploads/2021/09/21055441/Ivy_Pothos_MarbleQueenPole.png",
+      "price": 180
+    },
+    {
+      "id": "9",
+      "name": "ZZ Plant",
+      "description": "A low-maintenance plant with glossy, dark green leaves that thrive in low light.",
+      "image": "https://getpotted.com/upload/iblock/afe/hy90wzkwab8zjdihnhwco4tj2sltz2hi.png",
+      "price": 320
+    },
+    {
+      "id": "10",
+      "name": "Bird of Paradise",
+      "description": "A tropical plant with large, banana-like leaves and stunning orange and blue flowers.",
+      "image": "https://d2eygrc92dqrgg.cloudfront.net/wp-content/uploads/2021/09/21055615/BirdOfParadise6.png",
+      "price": 550
+    },
+    {
+      "id": "12",
+      "name": "Swiss cheese plant",
+      "description": "A beautiful flowering plant that thrives in low light and helps purify the air.",
+      "image": "https://s3-alpha-sig.figma.com/img/5196/aba5/8f7006d90ec0712ac1d01688cde1a537?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=VHJbOJr0qVsSdrWiECUE34nDCqMGi4EW2HfzDdiKMhfn4rJlzXkbmjPiWbqxtRDLbYTfcMTmzDPdi1aZutA897PQcFHXIUCK5Acb62FmFSQr7FAqEpaYAkm7KwnRQ5cvAASD7s8J7lu4D8vQjEQ1JGBwUP2FV6MU41VblHwuhtAyNlv3tyJqfbT13xWuRvfdcapcZWwqp~zd5-0qfokb1QSOyUUPNogQsJdUZv--bDfOehuwQoDjW0evFKHPgi1IHVINsgbHa7Bt5rC9Oe4hyadIf197OuUBJkB2~xtm9NrzrzZS7~ty6gN60zJ61OYBca7tiiqtsU73dLfgGozhkQ__",
+      "price": 300
+    },
+    {
+      "id": "13",
+      "name": "Zamiokulkas",
+      "description": "A hardy indoor plant with thick, glossy leaves that add a touch of elegance to any space.",
+      "image": "https://s3-alpha-sig.figma.com/img/eb03/51a5/771ed55c7f3454bcce697dfe63237769?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=kRxF~oEe9BwuzOdxZD5jaIXoa6~TNOkS8srCvpfLz4Yj~cCwCG2fESaUR285IFvFtfl42pyTsEfHNGJtdUHwEi~3kyl9PeqnGXppuW9CPkyUPHeKBJ4Eq6Ij9dscLnPe4KlWntcukvHfZ4KfZ5DTRr2RdP-NTqWgCvq7KGMZogU-ZtTVBKmcBfwRXu7eC~hx3CfBpAB2pBS80qsagZprqGC8s-Kux0MlGJEdtgk8W85PfdYMQXzMItOicctpRNFvFsbXY1MXLcCcKktx9zRZ0J9kya5lDrbLx1fwiFImYSCWgf65rQHL-MHyuf~g65U-6NuFL7SQLXdRnABLqhySqg__",
+      "price": 275
+    },
+    {
+      "id": "14",
+      "name": "Bird of Paradise",
+      "description": "A tropical plant with large, banana-like leaves and stunning orange and blue flowers.",
+      "image": "https://d2eygrc92dqrgg.cloudfront.net/wp-content/uploads/2021/09/21055615/BirdOfParadise6.png",
+      "price": 550
+    },
+    {
+      "id": "15",
+      "name": "Calathea plant",
+      "description": "A popular tropical plant with large, glossy leaves and natural leaf-holes.",
+      "image": "https://s3-alpha-sig.figma.com/img/c8eb/5b1a/bede1308e0eaf899d1f7faae62a0c2f6?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=leSaZUYzUZG290ApKKsfdrhi46ri66HkgbfIhcXVBkhdZex8kP7kuwVAcOeygXw6tLC3IS16cMSWRdyZrw8Ki~F92AXIRoDiJmxM6k1VGJ029cck1fecCTWFjV0Ri-ypShot4lMxQqoQNXg22YquYCB5c34bqjLYdz0SW3USF4PtC0FsHGL188KIms9dUSY1whZA-DPC5zV4LrRMqV95zG9qoS7yGkSQ5kTVvXmzKt8Pe9gTrK4XNzKCUVFb5xk004N0LrFfUGkJL2ZP7uqUqJtJ9I~PYmbn8JDgqeIGMahpWUxYaUKJyXGATZbcoyeUMN36Mj7jqkp7r9qOAk9ncw__",
+      "price": 359
+    },
+    {
+      "id": "16",
+      "name": "Haworthiopsis fasciata",
+      "description": "A hardy, low-maintenance plant with tall, upright leaves that purify the air.",
+      "image": "https://s3-alpha-sig.figma.com/img/95e7/2828/2f4fb901ee2edc80783c2fbd7df490c2?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=m1S5iIuH0-EEiZTUhtbG87SRUIrTbAmmed~50y0aBoQ-Pr5TRwlCLADJmENeYqMUjctTyX~OYv9AQPiB6vf1rAsF8s2p6gT2whCoSrpy03hjtpf~duPFSFV7gStsR3XFCcDu5l6zU~38WTS594KOK0WJXKtNdQQQgF2Q0EI83fZavSUM-46KK6x~5W3hrxlPUv3w84gY-KXb9Meew9m9qxR83afX6MZLg5gKy-JPNRORoFaMMXfiZA8JPv3Cn6KH2L2iX85NE6oJVoaLpZwV~46tPcnRkR-T02ftygrUojI7gMtALDpn4WNIAlSreso1JQP~TADws7bMoOAo3Y5H5w__",
+      "price": 250
+    },
+    {
+      "id": "17",
+      "name": "Philodendron",
+      "description": "A stylish indoor tree with large, violin-shaped leaves.",
+      "image": "https://s3-alpha-sig.figma.com/img/b483/12db/ddc890f7f35ef3964ae1e7900b89782c?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=kvkpWGduNkTUXYOUE-dqOErNxIP0wRq-0pGSihUs-e-gJJXYHpqjQ7iB1Vwbnz1eV8lcbWQ76ma6osqn4CuGlsosk4CIT4B~JGX1MZOsbRWH3-xrF71bW4YTPhkxc2y3DC9CC2DzweqQoOYcOqzFORYRicuq4hmlIXupSIguLvMS-vrLrbCgeoCEE17WXy5inyHauCbxcKMcudeadAfhIqlJ8r2frq0RVe0bzjG-g2HpdGlcUaAPgukIkQK1-duzjDU~u1lOswQMUyCkw2h-v2YGcGNVZaoaRg~VaZIOZS38BEepT1Y2RBNcNhQpEsuHUo2aTW685EucYfl6a7KaKg__",
+      "price": 400
+    },
+    {
+      "id": "18",
+      "name": "Aloe Vera",
+      "description": "A medicinal succulent known for its soothing gel and air-purifying properties.",
+      "image": "https://www.plantstore.ie/cdn/shop/products/aloe.png?v=1641577755&width=1500",
+      "price": 199
+    },
+    {
+      "id": "19",
+      "name": "Pothos",
+      "description": "A versatile trailing plant with heart-shaped leaves, perfect for hanging baskets.",
+      "image": "https://d2eygrc92dqrgg.cloudfront.net/wp-content/uploads/2021/09/21055441/Ivy_Pothos_MarbleQueenPole.png",
+      "price": 150
+    },
+    {
+      "id": "20",
+      "name": "ZZ Plant",
+      "description": "A low-maintenance plant with glossy, dark green leaves that thrive in low light.",
+      "image": "https://getpotted.com/upload/iblock/afe/hy90wzkwab8zjdihnhwco4tj2sltz2hi.png",
+      "price": 300
+    }
+  ],
+  "cart": [
+    {
+      "id": "3",
+      "name": "Philodendron",
+      "description": "A stylish indoor tree with large, violin-shaped leaves.",
+      "image": "https://s3-alpha-sig.figma.com/img/b483/12db/ddc890f7f35ef3964ae1e7900b89782c?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=kvkpWGduNkTUXYOUE-dqOErNxIP0wRq-0pGSihUs-e-gJJXYHpqjQ7iB1Vwbnz1eV8lcbWQ76ma6osqn4CuGlsosk4CIT4B~JGX1MZOsbRWH3-xrF71bW4YTPhkxc2y3DC9CC2DzweqQoOYcOqzFORYRicuq4hmlIXupSIguLvMS-vrLrbCgeoCEE17WXy5inyHauCbxcKMcudeadAfhIqlJ8r2frq0RVe0bzjG-g2HpdGlcUaAPgukIkQK1-duzjDU~u1lOswQMUyCkw2h-v2YGcGNVZaoaRg~VaZIOZS38BEepT1Y2RBNcNhQpEsuHUo2aTW685EucYfl6a7KaKg__",
+      "price": 450
+    },
+    {
+      "id": "2",
+      "name": "Haworthiopsis fasciata",
+      "description": "A hardy, low-maintenance plant with tall, upright leaves that purify the air.",
+      "image": "https://s3-alpha-sig.figma.com/img/95e7/2828/2f4fb901ee2edc80783c2fbd7df490c2?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=m1S5iIuH0-EEiZTUhtbG87SRUIrTbAmmed~50y0aBoQ-Pr5TRwlCLADJmENeYqMUjctTyX~OYv9AQPiB6vf1rAsF8s2p6gT2whCoSrpy03hjtpf~duPFSFV7gStsR3XFCcDu5l6zU~38WTS594KOK0WJXKtNdQQQgF2Q0EI83fZavSUM-46KK6x~5W3hrxlPUv3w84gY-KXb9Meew9m9qxR83afX6MZLg5gKy-JPNRORoFaMMXfiZA8JPv3Cn6KH2L2iX85NE6oJVoaLpZwV~46tPcnRkR-T02ftygrUojI7gMtALDpn4WNIAlSreso1JQP~TADws7bMoOAo3Y5H5w__",
+      "price": 250
+    },
+    {
+      "id": "3",
+      "name": "Philodendron",
+      "description": "A stylish indoor tree with large, violin-shaped leaves.",
+      "image": "https://s3-alpha-sig.figma.com/img/b483/12db/ddc890f7f35ef3964ae1e7900b89782c?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=kvkpWGduNkTUXYOUE-dqOErNxIP0wRq-0pGSihUs-e-gJJXYHpqjQ7iB1Vwbnz1eV8lcbWQ76ma6osqn4CuGlsosk4CIT4B~JGX1MZOsbRWH3-xrF71bW4YTPhkxc2y3DC9CC2DzweqQoOYcOqzFORYRicuq4hmlIXupSIguLvMS-vrLrbCgeoCEE17WXy5inyHauCbxcKMcudeadAfhIqlJ8r2frq0RVe0bzjG-g2HpdGlcUaAPgukIkQK1-duzjDU~u1lOswQMUyCkw2h-v2YGcGNVZaoaRg~VaZIOZS38BEepT1Y2RBNcNhQpEsuHUo2aTW685EucYfl6a7KaKg__",
+      "price": 450
+    }
+  ]
+}
